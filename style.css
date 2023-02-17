@@ -61,14 +61,12 @@ h1{
 }
 #ex-box2-border-color{
     
-    border-image: linear-gradient(blue, cyan);
-   
+    border-image: linear-gradient(blue, cyan); 
     border-image-slice: 7;
     border-left: 7px solid;
 }
 #ex-box1-border-color{
     border-image: linear-gradient(blue, cyan);
-   
     border-image-slice: 7;
     border-left: 7px solid;
 }
