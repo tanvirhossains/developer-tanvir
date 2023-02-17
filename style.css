@@ -24,8 +24,7 @@ h1{
 .link-button{
     text-decoration: none;
     border: 1 solid blue;
-    /* background-image: linear-gradient(rgb(230, 50, 19), orange); */
-    background-color: aqua;
+    background-image: linear-gradient(rgb(230, 50, 19), orange);
     border-radius: 3px;  
     padding: 10px 35px;
     color: white;
@@ -68,7 +67,8 @@ h1{
     border-left: 7px solid;
 }
 #ex-box1-border-color{
-    border-image: linear-gradient(blue, cyan);
+    /* border-image: linear-gradient(blue, cyan); */
+    border-image: blue;
     border-image-slice: 7;
     border-left: 7px solid;
 }
